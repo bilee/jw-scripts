@@ -1,0 +1,9 @@
+
+#!/bin/bash
+
+#login to terminator full screen
+#start cmus
+
+terminator -f
+
+cmus

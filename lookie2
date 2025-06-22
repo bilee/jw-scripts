@@ -1,0 +1,13 @@
+!#/bin/bash
+
+#find script
+
+echo lookie! lookie!!
+
+echo Enter Search
+
+read text
+
+echo "one sec..."
+
+find -iname "*$text*"

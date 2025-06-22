@@ -1,0 +1,7 @@
+!#/bin/bash
+
+#find script
+
+echo lookie! lookie!!
+
+echo find -iname "**"

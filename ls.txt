@@ -1,0 +1,26 @@
+breakfast_list.htm
+breakfast_list.htm~
+breakfast_list.txt
+breakfast_list.txt~
+Calibre Library
+Desktop
+Documents
+Downloads
+down.txt
+festival.html
+festival.html_files
+festival.mm
+ls.txt
+Music
+My GCompris
+nano.save
+Orange.mm
+Pictures
+Public
+pyNeighborhood
+sketchbook
+soundcloud-token
+Templates
+Videos
+VirtualBox VMs
+wizzrss
