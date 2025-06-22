@@ -1,0 +1,8 @@
+#!/bin/bash
+
+clear
+ uname -mrs
+ free -m
+ df -h
+ lsb_release -a
+ lscpu
