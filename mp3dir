@@ -1,0 +1,19 @@
+# find mp3 files from a certain directory
+# python - use | less to arrow thru list
+
+import os
+
+def list_mp3(folder):
+    mp3_files = []   # To hold our .mp3 files
+
+    for foldername, subfolders, filenames in os.walk(folder):
+        for filename in filenames:
+            if filename.endswith('.mp3'):
+                mp3_files.append(filename)   # Add the file to our list
+
+    return mp3_files
+
+folder = "/file/user/folder"  # Replace this with your path
+songs = list_mp3(folder)
+for song in songs:
+    print(song)
